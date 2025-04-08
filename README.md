@@ -10,16 +10,20 @@ Equipe:
 
 Links do projeto:
 -   [Documentação (Requisitos)](*)
--   Backend: [Repositório](github.com/SublimeFestas/Sublime_Back.git) e [Publicação](*)
--   Frontend: [Repositório](github.com/SublimeFestas/Sublime_Front.git) e [Publicação](*https://pi-frontend.herokuapp.com/*)
+-   Backend: [Repositório](https://github.com/SublimeFestas/Sublime_Back.git) e [Publicação](*)
+-   Frontend: [Repositório](https://github.com/SublimeFestas/Sublime_Front.git) e [Publicação](*)
 
 # 1. Desenvolvimento
 
 **1.1 Modelos de Sistemas**
 
+![Esquema Com Sistema](imgs/EsquemaComSistema.png)
+
 **Sistema para controle e locação de um salão de festas. O sistema servira tanto para o usuario realizar a locação quanto para o administrador controlar e gerenciar as locações**
 
 # 2. Situação Problema
+
+![Esquema Sem Sistema](imgs/EsquemaSemSistema.png)
 
 A empresa Sublime Festas e Eventos, inaugurada no dia 15 de março de 2025, é uma casa de festas localizada na Rua Antenor Douat Baptista, no bairro Ulysses Guimarães, e é especializada em festas infantis. Seu objetivo é tornar o evento mais agradável, oferecendo cozinha equipada, banheiros, espaço kids e ambiente climatizado, com capacidade para 60 pessoas. A empresa também oferece serviços adicionais, como louças de luxo, copeira, monitor e arcos de balões. Andresa e Valdinei são os atuais donos da Sublime, que não possui funcionários fixos, utilizando apenas serviços de terceiros.
 
@@ -34,7 +38,7 @@ Para solucionar o problema da falta de automação, o sistema deverá realizar q
 
 # 4. Modelagem de Dados
 
-![modelagem](docs/ModelagemSublime.jpeg)
+![modelagem](imgs/modelagem.png)
 
 # 5. Regras de negócio
 
@@ -87,7 +91,6 @@ Para solucionar o problema da falta de automação, o sistema deverá realizar q
 ##### **RNF005 - Segurança do usuário:** O sistema deve ser seguro para o uso dos os usuários.
 ##### **RNF006 - Responsividade:** O sistema deve ser possuir responsividade.
 ##### **RNF007 - Compatibilidade:** O sistema deve ser compatível com todos os navegadores.
-##### **RNF008 - **
 
 
 # <-------------------FINAL--------------------->
