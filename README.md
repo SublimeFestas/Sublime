@@ -12,7 +12,7 @@ Equipe:
 Links do projeto:
 -   [Documentação (Requisitos)](*)
 -   Backend: [Repositório](https://github.com/SublimeFestas/Sublime_Back.git) e [Publicação](https://sublime-back.onrender.com)
--   Frontend: [Repositório](https://github.com/SublimeFestas/Sublime_Front.git) e [Publicação]([https://sublime-back.onrender.com](https://sublime-front.vercel.app/plataform/auth/login)
+-   Frontend: [Repositório](https://github.com/SublimeFestas/Sublime_Front.git) e [Publicação](https://sublime-back.onrender.com](https://sublime-front.vercel.app/plataform/auth/login)
 
 `LOGIN`
 - `Email`: vinyescolas@gmail.com
