@@ -10,8 +10,8 @@ Equipe:
 
 Links do projeto:
 -   [Documentação (Requisitos)](*)
--   Backend: [Repositório](https://github.com/SublimeFestas/Sublime_Back.git) e [Publicação](*)
--   Frontend: [Repositório](https://github.com/SublimeFestas/Sublime_Front.git) e [Publicação](*)
+-   Backend: [Repositório](https://github.com/SublimeFestas/Sublime_Back.git) e [Publicação](https://sublime-front.vercel.app)
+-   Frontend: [Repositório](https://github.com/SublimeFestas/Sublime_Front.git) e [Publicação](https://sublime-back.onrender.com)
 
 # 1. Desenvolvimento
 
