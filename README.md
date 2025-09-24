@@ -7,11 +7,16 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 Equipe:
 - [Juliana Luiza dos Santos](github.com/santosjuliana23)
 - [Vinicius Gabryel Pereira](github.com/vinyzada)
+- [Lucas Gabriel Martins](*)
 
 Links do projeto:
 -   [Documentação (Requisitos)](*)
--   Backend: [Repositório](https://github.com/SublimeFestas/Sublime_Back.git) e [Publicação](https://sublime-front.vercel.app)
+-   Backend: [Repositório](https://github.com/SublimeFestas/Sublime_Back.git) e [Publicação](https://sublime-front.vercel.app/plataform/auth/login)
 -   Frontend: [Repositório](https://github.com/SublimeFestas/Sublime_Front.git) e [Publicação](https://sublime-back.onrender.com)
+
+`LOGIN`
+- `Email`: vinyescolas@gmail.com
+- `Senha`: admin
 
 # 1. Desenvolvimento
 
